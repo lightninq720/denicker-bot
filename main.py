@@ -36,4 +36,4 @@ async def on_message(message):
                     await message.channel.send(f"IGN: {data['results'][0]['ign']}\nMethod: {data['results'][0]['method']}\nPercentage: {data['results'][0]['percent']}\nFirst Detected: <t:{data['results'][0]['first_detected']}>\nLast Seen: <t:{data['results'][0]['last_seen']}>")
                 
 
-    client.run(TOKEN)
+client.run(TOKEN)
