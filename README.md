@@ -9,3 +9,8 @@
 5. Copy the key and put it as the `KEY` variable in `main.py`
 6. Install the `requests` python library (`pip install requests`)
 7. Run the bot.
+
+# How to use
+
+1. Go through the setup
+2. DM the bot a nick and it will return with the real IGN if it is stored.
