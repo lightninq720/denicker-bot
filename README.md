@@ -17,7 +17,7 @@
 
 # Requirements
 
-`nextcord`
-`requests`
-`json`
-`os`
+`nextcord`  
+`requests`  
+`json`  
+`os`  
