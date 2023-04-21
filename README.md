@@ -14,3 +14,10 @@
 
 1. Go through the setup
 2. DM the bot a nick and it will return with the real IGN if it is stored.
+
+# Requirements
+
+`nextcord`
+`requests`
+`json`
+`os`
