@@ -7,7 +7,7 @@
 3. Go to https://discord.gg/antisniper
 4. Message the Antisniper#1711 bot with the command `/api-new`
 5. Copy the key and put it as the `KEY` variable in `main.py`
-6. Install the `requests` python library (`pip install requests`)
+6. Install the all the required libraries (mentioned below) (`pip install library-name`)
 7. Run the bot.
 
 # How to use
